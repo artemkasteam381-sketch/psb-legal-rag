@@ -1,0 +1,12 @@
+[
+  {"file": "dp-17.md", "document_id": "ДП-17-2025", "kind": "договор", "effective_from": "2025-01-15"},
+  {"file": "dp-17-add-1.md", "document_id": "ДП-17-2025", "kind": "договор", "effective_from": "2025-04-01", "replaces": {"1": "2.1"}},
+  {"file": "dp-17-add-2.md", "document_id": "ДП-17-2025", "kind": "договор", "effective_from": "2025-07-01", "replaces": {"1": "2.1", "2": "3.1"}},
+  {"file": "dp-71.md", "document_id": "ДП-71-2025", "kind": "договор", "effective_from": "2025-02-01"},
+  {"file": "dp-71-add-1.md", "document_id": "ДП-71-2025", "kind": "договор", "effective_from": "2025-05-15", "replaces": {"1": "2.1"}},
+  {"file": "dp-07.md", "document_id": "ДП-07-2024", "kind": "договор", "effective_from": "2024-09-10"},
+  {"file": "dp-07-add-1.md", "document_id": "ДП-07-2024", "kind": "договор", "effective_from": "2025-03-20", "replaces": {"1": "3.1"}},
+  {"file": "dp-13.md", "document_id": "ДП-13-2025", "kind": "договор", "effective_from": "2025-03-03"},
+  {"file": "rg-02.md", "document_id": "РГ-02-2025", "kind": "регламент", "effective_from": "2025-01-01"},
+  {"file": "rg-02-v2.md", "document_id": "РГ-02-2025", "kind": "регламент", "effective_from": "2025-04-01", "replaces": {"2.2": "2.2", "3.1": "3.1"}}
+]
